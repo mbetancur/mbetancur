@@ -3,8 +3,8 @@
 - Code and Challenges lover 💞️ 
 
 - I'm from Colombia 
-- 👀 I’m a JS Developer
-- 🌱 I’m an AWS, Docker fan
+- 👀 I’m a JS Developer (mostly Vue.JS)
+- 🌱 I’m an AWS, Docker and DevOps fan
 
 ### Expertise
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
