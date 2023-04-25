@@ -1,26 +1,36 @@
-### WELCOME! 
-- 👋 Hi, I’m @mbetancur --> Mateo Betancur
-- Code and Challenges lover 💞️ 
+# Hi there, I'm Mateo 👋
 
-- I'm from Colombia 
-- 👀 I’m a JS Developer (mostly Vue.JS)
-- 🌱 I’m an AWS, Docker and DevOps fan
+I'm a web developer with expertise in Vue.js, React, and JavaScript, as well as experience with Node.js, Golang, and DevOps tools like Jenkins, Docker, and AWS. I enjoy building dynamic and engaging user interfaces and have worked on both front-end and full-stack web development projects.
 
-### Expertise
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+## Skills
+
+- Vue.js 🎨
+- Nuxt.js 🏰
+- React ⚛️
+- Next.js 🚀
+- JavaScript 🌟
+- HTML 🌐
+- CSS 🎨
+- Node.js 📦
+- Golang 🐹
+- Jenkins 🚦
+- Docker 🐳
+- AWS ☁️
+
+## GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbetancur&show_icons=true&theme=radical)
 
 
-...you like my profile?
-## Connect with me 📫 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MBetancur22)
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateo-betancur-grisales)
-[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mateobetancurgrisales@gmail.com)
+## Contact Me
 
-email: mateobetancurgrisales@gmail.com
+If you're interested in connecting, feel free to reach out using any of the following:
 
-<!---
-mbetancur/mbetancur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateo-betancur-grisales/)](https://www.linkedin.com/in/mateo-betancur-grisales/)
+- [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateobetancurgrisales@gmail.com)](mailto:mateobetancurgrisales@gmail.com)
+- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MBetancur22)](https://twitter.com/MBetancur22)
+
+You can also find more information about me and my work on my [personal website](https://www.yourwebsite.com).
+
+Thanks for stopping by! 🙌
+
