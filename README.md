@@ -30,7 +30,5 @@ If you're interested in connecting, feel free to reach out using any of the foll
 - [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateobetancurgrisales@gmail.com)](mailto:mateobetancurgrisales@gmail.com)
 - [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MBetancur22)](https://twitter.com/MBetancur22)
 
-You can also find more information about me and my work on my [personal website](https://www.yourwebsite.com).
-
 Thanks for stopping by! 🙌
 
