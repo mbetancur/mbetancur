@@ -30,9 +30,11 @@ I'm a web developer with expertise in Vue.js, React, and JavaScript, as well as 
 
 If you're interested in connecting, feel free to reach out using any of the following:
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateo-betancur-grisales/)](https://www.linkedin.com/in/mateo-betancur-grisales/)
-- [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateobetancurgrisales@gmail.com)](mailto:mateobetancurgrisales@gmail.com)
-- [![X](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MBetancur22)]([https://twitter.com/MBetancur22](https://x.com/MBetancurDEV))
 
+- Email: [mateobetancurgrisales@gmail.com](mailto:mateobetancurgrisales@gmail.com)
+- LinkedIn: [linkedin.com/in/mateo-betancur-grisales]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mateo-betancur-grisales/))
+- Twitter: [@MBetancurDEV]([https://twitter.com/MBetancurDEV](https://x.com/MBetancurDEV))
+
+mateobetancurgrisales@gmail.com
 Thanks for stopping by! 🙌🙏
 
